@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["EntryPointExecutionErrorWrapper"],"type":["EntryPointExecutionResultWrapper"]};
+window.SIDEBAR_ITEMS = {"type":["ClassHashWrapper","ContractAddressWrapper"]};
